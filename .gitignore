@@ -24,3 +24,4 @@
 # Include Important Folders
 !src/
 !libs/
+!original/
